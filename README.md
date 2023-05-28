@@ -1,0 +1,2 @@
+This is a Tribute page dedicated to Andrew Tate by his follower "these are not facts or judgements by any means, they are only the personal opinions of an individual which should be taken in a loose manner"
+to access the page  - 

@@ -1,0 +1,107 @@
+*{
+    background-color: black;
+}
+
+h1{
+    color: white;
+}
+h2{
+    color: white;
+}
+h3{
+    color: white;
+}
+
+/* .cls1{
+    border: solid 1px red;
+} */
+
+#div1{
+    width: 100%;
+    height: 8em;
+    margin: 3em 0em 0em 0em;
+}
+#id1{
+    margin: 0em 0em 0em 7em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 5em;
+    text-shadow: 4px 7px #565252;
+}
+
+#div2{
+    width: 100%;
+    height: 3em;
+    margin: 0em 0em 0em 0em;
+}
+#id2{
+    margin: 0em 0em 0em 1em;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.5em;
+}
+
+#div3{
+    width: 100%;
+}
+#id3{
+    height: 58em;
+    width: 100%;
+    margin: 0em 0em 0em 0em;
+}
+
+
+
+#div4{
+    height: 50em;
+    width: 50em;
+    margin: 5em 0em 0em 4em;
+}
+#id4{
+    font-size: 1.5em;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 5em 0em 0em 4em;
+}
+
+#div5{
+    height: 45em;
+    width: 30em;
+    margin: -50em 0em 0em 60em;
+}
+
+#id5{
+    height: 42em;
+    width: 100%;
+    margin: 0em 0em 0em 0em;
+    border-top-right-radius: 2em;
+    border-bottom-left-radius: 2em;
+}
+
+#div6{
+    height: 25em;
+    width: 100%;
+    margin: 8em 0em 0em 0em;
+}
+#id6{
+    font-size: 1.5em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0em 0em 0em 0.5em;
+}
+
+#div7{
+    height: 20em;
+    width: 100%;
+    margin: 4em 0em 0em 0em;
+    box-shadow: 0 0 25px 8px rgb(66 68 65);
+    border-radius: 1em;
+    margin: 0em 0em 0em 0em;
+}
+#id7{
+    font-size: 2em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0em 0em 0em 14em;
+    padding: 1em 0em 0em 0em;
+}
+#id7_2{
+    font-size: 1.5em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 2em 0em 0em 1em;
+}
